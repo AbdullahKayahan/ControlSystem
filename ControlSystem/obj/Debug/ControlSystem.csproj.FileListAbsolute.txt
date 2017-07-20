@@ -8,3 +8,13 @@ c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\Contr
 c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.exe
 c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.pdb
 c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.Settings.resources
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\bin\Debug\ControlSystem.exe.config
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\obj\Debug\ControlSystem.exe
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\obj\Debug\ControlSystem.pdb
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\bin\Debug\ControlSystem.exe
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\bin\Debug\ControlSystem.pdb
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\obj\Debug\ControlSystem.csprojResolveAssemblyReference.cache
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\obj\Debug\ControlSystem.MainForm.resources
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\obj\Debug\ControlSystem.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\obj\Debug\ControlSystem.Settings.resources
+C:\Users\abdul\OneDrive\Belgeler\GitHub\ControlSystem\ControlSystem\obj\Debug\ControlSystem.csproj.GenerateResource.Cache
