@@ -1,0 +1,10 @@
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\bin\Debug\ControlSystem.exe.config
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\bin\Debug\ControlSystem.exe
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\bin\Debug\ControlSystem.pdb
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.csprojResolveAssemblyReference.cache
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.MainForm.resources
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.Properties.Resources.resources
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.csproj.GenerateResource.Cache
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.exe
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.pdb
+c:\users\abdul\onedrive\belgeler\visual studio 2012\Projects\ControlSystem\ControlSystem\obj\Debug\ControlSystem.Settings.resources
